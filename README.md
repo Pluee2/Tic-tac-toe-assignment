@@ -3,7 +3,7 @@ A simple Tic Tac Toe game with a bit of a twist where a user is able to manually
 
 ##Running the program
 The program can be easily run through a makefile which compiles all the files that needs to be compiled in a single file and creates a executable file.
-'''
+```
 $ make
 $ ./TicTacToe
-'''
+```
